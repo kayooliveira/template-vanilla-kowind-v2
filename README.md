@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://www.github.com/kayooliveira/kowind" target="_blank" rel="noopener noreferrer">
-    <img width="200" src="./logo.svg" alt="kowind logo">
+    <img width="200" src="./src/assets/logo.svg" alt="kowind logo">
   </a>
 </p>
 <br>
 <p align="center">
   <span>
-    <a href="https://npmjs.com/package/kowind"><img src="https://img.shields.io/npm/v/kowind?style=flat" alt="version"></a>
-    <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/npm/dw/kowind?style=flat" alt="npm-download"></a>
+    <a href="https://npmjs.com/package/create-kowind"><img src="https://img.shields.io/npm/v/create-kowind?style=flat" alt="version"></a>
+    <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/npm/dw/create-kowind?style=flat" alt="npm-download"></a>
   </span>
 
 </p>
